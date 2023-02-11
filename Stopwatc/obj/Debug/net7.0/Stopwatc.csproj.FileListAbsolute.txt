@@ -1,0 +1,15 @@
+C:\dev\Stopwatc\bin\Debug\net7.0\Stopwatc.exe
+C:\dev\Stopwatc\bin\Debug\net7.0\Stopwatc.deps.json
+C:\dev\Stopwatc\bin\Debug\net7.0\Stopwatc.runtimeconfig.json
+C:\dev\Stopwatc\bin\Debug\net7.0\Stopwatc.dll
+C:\dev\Stopwatc\bin\Debug\net7.0\Stopwatc.pdb
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.csproj.AssemblyReference.cache
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.AssemblyInfoInputs.cache
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.AssemblyInfo.cs
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.csproj.CoreCompileInputs.cache
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.dll
+C:\dev\Stopwatc\obj\Debug\net7.0\refint\Stopwatc.dll
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.pdb
+C:\dev\Stopwatc\obj\Debug\net7.0\Stopwatc.genruntimeconfig.cache
+C:\dev\Stopwatc\obj\Debug\net7.0\ref\Stopwatc.dll
